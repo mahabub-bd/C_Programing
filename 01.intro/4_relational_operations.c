@@ -19,16 +19,16 @@ int main(void)
     // !=
     bool a_is_not_b = a != b;
     printf("A is Not B - %d\n", a_is_not_b);
-    int e = 25;
+    int e = 15;
     int f = 20;
     bool e_is_greater = e > f;
-    printf("E is greater-%d\n", e_is_greater);
+    printf("E is greater Than D-%d\n", e_is_greater);
 
     bool e_is_greater_equal = e >= f;
     printf("E is greater or Equal - %d\n", e_is_greater_equal);
 
     bool e_is_smaller = e < f;
-    printf("E is Smaller-%d\n", e_is_smaller);
+    printf("E is Smaller Than F-%d\n", e_is_smaller);
 
     bool e_is_smaller_equal = e <= f;
     printf("E is Smaller or Equal - %d\n", e_is_smaller_equal);
