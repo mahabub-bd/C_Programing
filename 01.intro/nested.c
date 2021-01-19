@@ -12,7 +12,7 @@ int main(void)
     {
         if (has_nid || has_passport)
         {
-            printf("Ok, Lets Proced\n");
+            printf("Ok, Lets Proceed\n");
         }
         else
         {
