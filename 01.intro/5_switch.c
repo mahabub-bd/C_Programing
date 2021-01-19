@@ -29,7 +29,7 @@ int main(void)
         break;
 
     default:
-    printf("Wrong day\n");
+        printf("Wrong day\n");
         break;
     }
     return 0;
